@@ -1,0 +1,15 @@
+.item {
+	margin: 10px;
+	text-decoration: underline;
+}
+.text {
+	color: rgb(67, 69, 219);
+}
+.button {
+	text-align: center;
+
+	border-radius: 10px;
+	padding: 5px 15px;
+	background-color: rgb(236, 145, 145);
+	cursor: pointer;
+}
